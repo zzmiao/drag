@@ -1,0 +1,23 @@
+{
+	"name": "miao-drag",
+	"version": "1.0.0",
+	"description": "一个基于javascript的可拖拽悬浮按钮",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zzmiao/drag.git"
+	},
+	"keywords": [
+		"javascript",
+		"拖拽，悬浮按钮"
+	],
+	"author": "zzmiao",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zzmiao/drag/issues"
+	},
+	"homepage": "https://github.com/zzmiao/drag#readme"
+}
